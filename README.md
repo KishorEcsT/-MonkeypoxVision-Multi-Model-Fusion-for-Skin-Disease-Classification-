@@ -1,0 +1,2 @@
+# -MonkeypoxVision-Multi-Model-Fusion-for-Skin-Disease-Classification-
+MonkeypoxVision: Classify monkeypox, chickenpox, measles, and normal skin images with multi-model fusion. Uses ResNet50, VGG16, InceptionV3, DenseNet121, MobileNetV2, AlexNet, and Random Forest. Features data preprocessing, transfer learning, and Plotly visualizations (ROC, confusion matrices). Ideal for researchers and medical pros.
